@@ -1,4 +1,3 @@
 fn main() {
-    let mut m = "wildhash".bytes();
-    println!("{}",m);
+    println!("Hello World!");
 }

@@ -4,13 +4,13 @@ mod print;
 mod variable;
 mod types;
 mod strings;
-
+mod tuples;
 
 
 fn main(){
     //print::run();
     //variable::run();
     //types::run();
-    strings::run();
-    
+    //strings::run();
+    tuples::run();
 }

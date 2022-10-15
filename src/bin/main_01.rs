@@ -1,9 +1,13 @@
-//use crate::test::run;
+//use crate::print::run;
 
 mod print;
 mod variable;
+mod types;
+
 
 fn main(){
-    print::run();
-    variable::run();
+    //print::run();
+    //variable::run();
+    types::run();
+    
 }

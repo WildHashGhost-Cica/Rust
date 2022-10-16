@@ -17,6 +17,7 @@ mod structs;
 mod struct01;
 mod personstruct;
 mod enums;
+mod cli;
 
 
 fn main(){
@@ -36,6 +37,7 @@ fn main(){
     //structs::run();
     //struct01::run();
     //personstruct::run();
-    enums::run();
+    //enums::run();
+    cli::run();
     
 }

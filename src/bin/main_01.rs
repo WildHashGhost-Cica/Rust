@@ -12,6 +12,7 @@ mod loops;
 mod fizzBuzz;
 mod for_range;
 mod function;
+mod pointer_ref;
 
 
 fn main(){
@@ -26,5 +27,6 @@ fn main(){
     //loops::run();
     //fizzBuzz::run();
     //for_range::run();
-    function::run();
+    //function::run();
+    pointer_ref::run();
 }

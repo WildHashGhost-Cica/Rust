@@ -15,6 +15,7 @@ mod function;
 mod pointer_ref;
 mod structs;
 mod struct01;
+mod personstruct;
 
 
 fn main(){
@@ -32,6 +33,7 @@ fn main(){
     //function::run();
     //pointer_ref::run();
     //structs::run();
-    struct01::run();
+    //struct01::run();
+    personstruct::run();
     
 }

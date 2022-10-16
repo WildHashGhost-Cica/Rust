@@ -9,6 +9,7 @@ mod arrays;
 mod vectors;
 mod conditionals;
 mod loops;
+mod fizzBuzz;
 
 
 fn main(){
@@ -20,5 +21,6 @@ fn main(){
     //arrays::run();
     //vectors::run();
     //conditionals::run();
-    loops::run();
+    //loops::run();
+    fizzBuzz::run();
 }

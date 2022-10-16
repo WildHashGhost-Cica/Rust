@@ -13,6 +13,7 @@ mod fizzBuzz;
 mod for_range;
 mod function;
 mod pointer_ref;
+mod structs;
 
 
 fn main(){
@@ -28,5 +29,6 @@ fn main(){
     //fizzBuzz::run();
     //for_range::run();
     //function::run();
-    pointer_ref::run();
+    //pointer_ref::run();
+    structs::run();
 }

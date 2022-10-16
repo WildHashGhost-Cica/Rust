@@ -10,6 +10,7 @@ mod vectors;
 mod conditionals;
 mod loops;
 mod fizzBuzz;
+mod for_range;
 
 
 fn main(){
@@ -22,5 +23,6 @@ fn main(){
     //vectors::run();
     //conditionals::run();
     //loops::run();
-    fizzBuzz::run();
+    //fizzBuzz::run();
+    for_range::run();
 }

@@ -11,6 +11,7 @@ mod conditionals;
 mod loops;
 mod fizzBuzz;
 mod for_range;
+mod function;
 
 
 fn main(){
@@ -24,5 +25,6 @@ fn main(){
     //conditionals::run();
     //loops::run();
     //fizzBuzz::run();
-    for_range::run();
+    //for_range::run();
+    function::run();
 }

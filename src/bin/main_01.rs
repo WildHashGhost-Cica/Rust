@@ -16,6 +16,7 @@ mod pointer_ref;
 mod structs;
 mod struct01;
 mod personstruct;
+mod enums;
 
 
 fn main(){
@@ -34,6 +35,7 @@ fn main(){
     //pointer_ref::run();
     //structs::run();
     //struct01::run();
-    personstruct::run();
+    //personstruct::run();
+    enums::run();
     
 }
